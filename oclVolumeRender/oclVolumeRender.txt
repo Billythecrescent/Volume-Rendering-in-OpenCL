@@ -1,0 +1,121 @@
+C:\Users\mxdwa\Documents\hmc\Parallel Programming\oclVolumeRender4\x64\Debug\oclVolumeRender.exe Starting...
+
+Press <f> to toggle filtering ON/OFF
+       '-' and '+' to change density (0.01 increments)
+       ']' and '[' to change brightness
+       ';' and ''' to modify transfer function offset
+       '.' and ',' to modify transfer function scale
+
+WARNING: NVIDIA OpenCL platform not found - defaulting to first platform!
+
+Using CL-GL Interop...
+Using Image (Texture)...
+
+Detailed Device info:
+
+  CL_DEVICE_NAME: 			Intel(R) UHD Graphics 620
+  CL_DEVICE_VENDOR: 			Intel(R) Corporation
+  CL_DRIVER_VERSION: 			24.20.100.6293
+  CL_DEVICE_VERSION: 			OpenCL 2.1 NEO 
+  CL_DEVICE_OPENCL_C_VERSION: 		OpenCL C 2.0 
+  CL_DEVICE_TYPE:			CL_DEVICE_TYPE_GPU
+  CL_DEVICE_MAX_COMPUTE_UNITS:		24
+  CL_DEVICE_MAX_WORK_ITEM_DIMENSIONS:	3
+  CL_DEVICE_MAX_WORK_ITEM_SIZES:	256 / 256 / 256 
+  CL_DEVICE_MAX_WORK_GROUP_SIZE:	256
+  CL_DEVICE_MAX_CLOCK_FREQUENCY:	1150 MHz
+  CL_DEVICE_ADDRESS_BITS:		64
+  CL_DEVICE_MAX_MEM_ALLOC_SIZE:		1623 MByte
+  CL_DEVICE_GLOBAL_MEM_SIZE:		3246 MByte
+  CL_DEVICE_ERROR_CORRECTION_SUPPORT:	no
+  CL_DEVICE_LOCAL_MEM_TYPE:		local
+  CL_DEVICE_LOCAL_MEM_SIZE:		64 KByte
+  CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE:	1662360 KByte
+  CL_DEVICE_QUEUE_PROPERTIES:		CL_QUEUE_OUT_OF_ORDER_EXEC_MODE_ENABLE
+  CL_DEVICE_QUEUE_PROPERTIES:		CL_QUEUE_PROFILING_ENABLE
+  CL_DEVICE_IMAGE_SUPPORT:		1
+  CL_DEVICE_MAX_READ_IMAGE_ARGS:	128
+  CL_DEVICE_MAX_WRITE_IMAGE_ARGS:	128
+  CL_DEVICE_SINGLE_FP_CONFIG:		denorms INF-quietNaNs round-to-nearest round-to-zero round-to-inf fma 
+
+  CL_DEVICE_IMAGE <dim>			2D_MAX_WIDTH	 16384
+					2D_MAX_HEIGHT	 16384
+					3D_MAX_WIDTH	 16384
+					3D_MAX_HEIGHT	 16384
+					3D_MAX_DEPTH	 2048
+
+  CL_DEVICE_EXTENSIONS:			cl_khr_3d_image_writes
+					cl_khr_byte_addressable_store
+					cl_khr_fp16
+					cl_khr_depth_images
+					cl_khr_global_int32_base_atomics
+					cl_khr_global_int32_extended_atomics
+					cl_khr_icd
+					cl_khr_image2d_from_buffer
+					cl_khr_local_int32_base_atomics
+					cl_khr_local_int32_extended_atomics
+					cl_intel_subgroups
+					cl_intel_required_subgroup_size
+					cl_intel_subgroups_short
+					cl_khr_spir
+					cl_intel_accelerator
+					cl_intel_media_block_io
+					cl_intel_driver_diagnostics
+					cl_intel_device_side_avc_motion_estimation
+					cl_khr_priority_hints
+					cl_khr_throttle_hints
+					cl_khr_create_command_queue
+					cl_khr_fp64
+					cl_khr_subgroups
+					cl_khr_il_program
+					cl_khr_mipmap_image
+					cl_khr_mipmap_image_writes
+					cl_intel_planar_yuv
+					cl_intel_packed_yuv
+					cl_intel_motion_estimation
+					cl_intel_advanced_motion_estimation
+					cl_khr_gl_sharing
+					cl_khr_gl_depth_images
+					cl_khr_gl_event
+					cl_khr_gl_msaa_sharing
+					cl_intel_dx9_media_sharing
+					cl_khr_dx9_media_sharing
+					cl_khr_d3d10_sharing
+					cl_khr_d3d11_sharing
+					cl_intel_d3d11_nv12_media_sharing
+					cl_intel_simultaneous_sharing
+
+  CL_DEVICE_PREFERRED_VECTOR_WIDTH_<t>	CHAR 16, SHORT 8, INT 4, LONG 1, FLOAT 1, DOUBLE 1
+
+
+ Read './data/fetus.raw', 17684352 bytes
+ Raw file data loaded...
+
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512
+ Volume Render | W: 512  H: 512

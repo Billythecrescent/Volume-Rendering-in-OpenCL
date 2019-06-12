@@ -1,0 +1,12 @@
+﻿  oclVolumeRender.cpp
+  Note: including windows.h
+  Note: including math.h
+  Note: including assert.h
+  Note: including shrUtils.h
+  Note: including opencl.h
+  Note: including windows.h
+  Note: including math.h
+  Note: including assert.h
+  Note: including time.h
+oclVolumeRender.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  oclVolumeRender.vcxproj -> C:\Users\mxdwa\Documents\hmc\Parallel Programming\oclVolumeRender4\x64\Debug\oclVolumeRender.exe
